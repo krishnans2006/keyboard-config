@@ -1,0 +1,4 @@
+Underglow Brightness: Max
+Underglow Effect: REACTIVE_MULTIWIDE
+Underglow Effect Speed: Min
+Underglow Color: #26ff26
